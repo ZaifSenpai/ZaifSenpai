@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="/hellothere.jpeg" width="300"/>
 
-<!--
-**ZaifSenpai/ZaifSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Huzaifa Butt - aka ZaifSenpai 👋
 
-Here are some ideas to get you started:
+- 🧑🏻‍💻 Love problem solving. That's why I code
+- 👾 I am gamer
+- 🎬 Love spending time watching movies, TV series and anime ✌🏻😌
+- 🌳 I want to keep growing my knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[<img align="left" alt="Huzaifa Butt | LinkedIn" height="22px" src="https://i.imgur.com/OQUXwNp.jpeg" style="background-color:red;" />][linkedin]
+[<img align="left" alt="Send email to escbutt@gmail.com" height="22px" src="https://i.imgur.com/20rBedd.jpeg" style="background-color:red;" />][gmail]
+
+[linkedin]: https://linkedin.com/in/zaif
+[gmail]: mailto:escbutt@gmail.com

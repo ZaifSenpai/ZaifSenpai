@@ -2,7 +2,7 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
-[![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)](https://wakatime.com/@b52e42fd-90b4-43d2-ab06-a8c0cd031b36)
+[![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)](https://wakatime.com/@b52e42fd-90b4-43d2-ab06-a8c0cd031b36) [![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub)](https://pub.dev/packages/dice_bear) [![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub)](https://pub.dev/packages/randomizer_null_safe)
 
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer

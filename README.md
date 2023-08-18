@@ -22,7 +22,9 @@
 ## Connect with me
 [<img align="left" alt="Huzaifa Butt | LinkedIn" height="22px" src="https://i.imgur.com/OQUXwNp.jpeg"/>][linkedin]
 [<img align="left" alt="Send email to escbutt@gmail.com" height="22px" src="https://i.imgur.com/20rBedd.jpeg"/>][gmail]
+[<img align="left" alt="Hire me on upwork" height="22px" src="https://i.imgur.com/GlhayMD.jpg"/>][upwork]
 
 [linkedin]: https://linkedin.com/in/zaif
 [gmail]: mailto:escbutt@gmail.com
 [wakatime]: https://wakatime.com/@ZaifSenpai
+[upwork]: https://www.upwork.com/freelancers/zaif

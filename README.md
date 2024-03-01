@@ -4,11 +4,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)](https://wakatime.com/@b52e42fd-90b4-43d2-ab06-a8c0cd031b36)
 
-[![react-chrome-extension-boilerplate](https://img.shields.io/badge/Chromium-react--chrome--extension--boilerplate-8A2BE2?logo=googlechrome)](https://github.com/ZaifSenpai/react-chrome-extension-boilerplate)
-[![wakatrack-leaderboard](https://img.shields.io/badge/Chromium-wakatrack--leaderboard-8A2BE2?logo=googlechrome)](https://github.com/ZaifSenpai/wakatrack-leaderboard)
+[![wakatrack-leaderboard](https://img.shields.io/badge/Chromium-wakatrack--leaderboard-8A2BE2?logo=googlechrome&logoColor=ffffff)](https://github.com/ZaifSenpai/wakatrack-leaderboard)
 
-[![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub)](https://pub.dev/packages/dice_bear)
-[![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub)](https://pub.dev/packages/randomizer_null_safe)
+[![react-chrome-extension-boilerplate](https://img.shields.io/badge/Chromium-react--chrome--extension--boilerplate-8A2BE2?logo=googlechrome&logoColor=ffffff)](https://github.com/ZaifSenpai/react-chrome-extension-boilerplate)
+[![chrome-ext-react](https://img.shields.io/badge/npm-chrome--ext--react-7A1BD2?logo=npm)](https://www.npmjs.com/package/chrome-ext-react)
+
+
+[![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/dice_bear)
+[![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/randomizer_null_safe)
 
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer

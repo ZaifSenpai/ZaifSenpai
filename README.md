@@ -16,7 +16,7 @@
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer
 - 🎬 Love spending time watching movies, TV series and anime ✌🏻😌
-- 🌳 I like grow my knowledge on spare time
+- 🌳 Loves nature 🏔️🚶🏻‍♂️
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zaifsenpai&count_private=true&show_icons=true&theme=dark)
 

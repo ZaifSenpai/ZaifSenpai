@@ -15,11 +15,10 @@
 [![react-chrome-extension-boilerplate](https://img.shields.io/badge/Chromium-react--chrome--extension--boilerplate-8A2BE2?logo=googlechrome&logoColor=ffffff)](https://github.com/ZaifSenpai/react-chrome-extension-boilerplate)
 [![chrome-ext-react](https://img.shields.io/badge/npm-chrome--ext--react-7A1BD2?logo=npm)](https://www.npmjs.com/package/chrome-ext-react)
 
-
 [![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/dice_bear)
 [![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/randomizer_null_safe)
 
-[![Placeholder Provider](https://img.shields.io/badge/Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
+[![Placeholder Provider](https://img.shields.io/badge/RR-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
 
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer

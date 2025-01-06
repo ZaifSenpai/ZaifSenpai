@@ -2,6 +2,12 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
+<img
+  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  width="100%"
+  height="2px"
+/>
+
 [![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)](https://wakatime.com/@b52e42fd-90b4-43d2-ab06-a8c0cd031b36)
 
 [![wakatrack-leaderboard](https://img.shields.io/badge/Chromium-wakatrack--leaderboard-8A2BE2?logo=googlechrome&logoColor=ffffff)](https://github.com/ZaifSenpai/wakatrack-leaderboard)
@@ -13,10 +19,18 @@
 [![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/dice_bear)
 [![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/randomizer_null_safe)
 
+[![Placeholder Provider](https://img.shields.io/badge/Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
+
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer
 - 🎬 Love spending time watching movies, TV series and anime ✌🏻😌
 - 🌳 Loves nature 🏔️🚶🏻‍♂️
+
+<img
+  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  width="100%"
+  height="2px"
+/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zaifsenpai&count_private=true&show_icons=true&theme=dark)
 
@@ -26,7 +40,11 @@
 
 [<img src="https://wakatime.com/share/@ZaifSenpai/bb973ed8-0387-4178-931e-299ad5a19fb0.png" />][wakatime]
 
----
+<img
+  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  width="100%"
+  height="2px"
+/>
 
 ## Connect with me
 [<img align="left" alt="Huzaifa Butt | LinkedIn" height="22px" src="https://i.imgur.com/OQUXwNp.jpeg"/>][linkedin]

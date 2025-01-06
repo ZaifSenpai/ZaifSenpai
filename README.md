@@ -18,7 +18,7 @@
 [![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/dice_bear)
 [![pub package](https://img.shields.io/pub/v/randomizer_null_safe?label=randomizer_null_safe%20%7C%20pub&logo=flutter&color=02569B)](https://pub.dev/packages/randomizer_null_safe)
 
-[![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
+[![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby-on-rails&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
 
 - 🧑🏻‍💻 Love problem solving. That's why I code
 - 👾 I am gamer

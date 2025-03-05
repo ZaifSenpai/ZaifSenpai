@@ -20,10 +20,10 @@
 
 [![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby-on-rails&logoColor=white)](https://github.com/ZaifSenpai/placeholder-provider)
 
-- 🧑🏻‍💻 Love problem solving. That's why I code
-- 👾 I am gamer
-- 🎬 Love spending time watching movies, TV series and anime ✌🏻😌
-- 🌳 Loves nature 🏔️🚶🏻‍♂️
+- 🧑🏻‍💻 Loves problem solving. That's why I code ❤️‍🔥
+- 👾 Gamer
+- 🎬 Loves spending time watching movies, TV series and anime ✌🏻😌
+- 🌳 Nature 🏔️🚶🏻‍♂️
 
 <img
   src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"

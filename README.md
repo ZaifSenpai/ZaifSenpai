@@ -3,16 +3,20 @@
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
 <img
-  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  src="https://placehold.co/1x1/FFD602/FFD602.png"
   width="100%"
   height="2px"
 />
 
+
+[![Support Me!](https://img.shields.io/badge/Support_Me-33e8f0?logo=kofi&logoColor=ff0000)][badge_kofi]
+
 [![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)][badge_wakatime]
 
+[![wplace-tracer](https://img.shields.io/badge/Chromium-wplace--tracer-8A2BE2?logo=googlechrome&logoColor=ffffff)][badge_wplace_tracer]
 [![wakatrack-leaderboard](https://img.shields.io/badge/Chromium-wakatrack--leaderboard-8A2BE2?logo=googlechrome&logoColor=ffffff)][badge_wakatrack]
-
 [![react-chrome-extension-boilerplate](https://img.shields.io/badge/Chromium-react--chrome--extension--boilerplate-8A2BE2?logo=googlechrome&logoColor=ffffff)][badge_react_ext_boilerplate]
+
 [![chrome-ext-react](https://img.shields.io/badge/npm-chrome--ext--react-7A1BD2?logo=npm)][badge_react_ext_boilerplate_npm]
 
 [![pub package](https://img.shields.io/pub/v/dice_bear?label=dice_bear%20%7C%20pub&logo=flutter&color=02569B)][badge_dice_bear]
@@ -20,13 +24,13 @@
 
 [![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby-on-rails&logoColor=white)][badge_placeholder_provider]
 
-- 🧑🏻‍💻 Loves problem solving. That's why I code ❤️‍🔥
+- 🧑🏻‍💻 Loves problem solving. That is why I code ❤️‍🔥
 - 👾 Gamer
 - 🎬 Loves spending time watching movies, TV series and anime ✌🏻😌
 - 🌳 Nature 🏔️🚶🏻‍♂️
 
 <img
-  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  src="https://placehold.co/1x1/FFD602/FFD602.png"
   width="100%"
   height="2px"
 />
@@ -40,7 +44,7 @@
 [<img src="https://wakatime.com/share/@ZaifSenpai/bb973ed8-0387-4178-931e-299ad5a19fb0.png" />][wakatime]
 
 <img
-  src="https://placeholder-provider.onrender.com?w=1&h=1&color=%23FFD602&show_error=true"
+  src="https://placehold.co/1x1/FFD602/FFD602.png"
   width="100%"
   height="2px"
 />
@@ -52,7 +56,9 @@
 
 [//]: # ( Links )
 
+[badge_kofi]: https://linkly.link/2Du03
 [badge_wakatime]: https://linkly.link/2C3o1
+[badge_wplace_tracer]: https://linkly.link/2Du0n
 [badge_wakatrack]: https://linkly.link/2C3ok
 [badge_react_ext_boilerplate]: https://linkly.link/2C3ol
 [badge_react_ext_boilerplate_npm]: https://linkly.link/2C3om

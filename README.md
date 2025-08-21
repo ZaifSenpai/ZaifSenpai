@@ -3,13 +3,14 @@
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
 <img
-  src="https://placehold.co/1x1/FFD602/FFD602.png"
+  src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"
   height="2px"
 />
 
 
-[![Support Me!](https://img.shields.io/badge/Support_Me-33e8f0?logo=kofi&logoColor=ff0000)][badge_kofi]
+[![Hire Me On Upwork](https://img.shields.io/badge/Upwork-Hire_Me-%236FDA44.svg?style=flat&logo=upwork&logoColor=6FDA44&labelColor=black)][upwork]
+[![Hire Me On Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white)][fiverr]
 
 [![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)][badge_wakatime]
 
@@ -30,7 +31,7 @@
 - 🌳 Nature 🏔️🚶🏻‍♂️
 
 <img
-  src="https://placehold.co/1x1/FFD602/FFD602.png"
+  src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"
   height="2px"
 />
@@ -44,7 +45,7 @@
 [<img src="https://wakatime.com/share/@ZaifSenpai/bb973ed8-0387-4178-931e-299ad5a19fb0.png" />][wakatime]
 
 <img
-  src="https://placehold.co/1x1/FFD602/FFD602.png"
+  src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"
   height="2px"
 />
@@ -70,3 +71,4 @@
 [gmail]: mailto:escbutt@gmail.com
 [wakatime]: https://linkly.link/2C3ot
 [upwork]: https://linkly.link/2C3ou
+[fiverr]: https://linkly.link/2DwNA

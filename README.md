@@ -57,18 +57,18 @@
 
 [//]: # ( Links )
 
-[badge_kofi]: https://linkly.link/2Du03
-[badge_wakatime]: https://linkly.link/2C3o1
-[badge_wplace_tracer]: https://linkly.link/2Du0n
-[badge_wakatrack]: https://linkly.link/2C3ok
-[badge_react_ext_boilerplate]: https://linkly.link/2C3ol
-[badge_react_ext_boilerplate_npm]: https://linkly.link/2C3om
-[badge_dice_bear]: https://linkly.link/2C3on
-[badge_randomizer_null_safe]: https://linkly.link/2C3oo
-[badge_placeholder_provider]: https://linkly.link/2C3op
-[img_github_readme_stats]: https://linkly.link/2C3oq
-[linkedin]: https://linkly.link/2C3or
+[badge_kofi]: https://ko-fi.com/zaifsenpai
+[badge_wakatime]: https://wakatime.com/@ZaifSenpai
+[badge_wplace_tracer]: https://github.com/ZaifSenpai/wplace-tracer
+[badge_wakatrack]: https://github.com/ZaifSenpai/wakatrack-leaderboard
+[badge_react_ext_boilerplate]: https://github.com/ZaifSenpai/react-chrome-extension-boilerplate
+[badge_react_ext_boilerplate_npm]: https://www.npmjs.com/package/chrome-ext-react
+[badge_dice_bear]: https://pub.dev/packages/dice_bear
+[badge_randomizer_null_safe]: https://pub.dev/packages/randomizer_null_safe
+[badge_placeholder_provider]: https://github.com/ZaifSenpai/placeholder-provider
+[img_github_readme_stats]: https://github.com/anuraghazra/github-readme-stats
+[linkedin]: https://linkedin.com/in/zaif
 [gmail]: mailto:escbutt@gmail.com
-[wakatime]: https://linkly.link/2C3ot
-[upwork]: https://linkly.link/2C3ou
-[fiverr]: https://linkly.link/2DwNA
+[wakatime]: https://wakatime.com/@ZaifSenpai
+[upwork]: https://www.upwork.com/freelancers/zaif
+[fiverr]: https://www.fiverr.com/kuwaydev

@@ -2,12 +2,13 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
+> :warning: **Warning:** [Do not ask ChatGPT about me][my_chatgpt_link]
+
 <img
   src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"
   height="2px"
 />
-
 
 [![Hire Me On Upwork](https://img.shields.io/badge/Upwork-Hire_Me-%236FDA44.svg?style=flat&logo=upwork&logoColor=6FDA44&labelColor=black)][upwork]
 [![Hire Me On Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white)][fiverr]
@@ -57,6 +58,7 @@
 
 [//]: # ( Links )
 
+[my_chatgpt_link]: https://chatgpt.com/?prompt=Tell+me+about+Zaif+Senpai&hints=search
 [badge_kofi]: https://ko-fi.com/zaifsenpai
 [badge_wakatime]: https://wakatime.com/@ZaifSenpai
 [badge_wplace_tracer]: https://github.com/ZaifSenpai/wplace-tracer

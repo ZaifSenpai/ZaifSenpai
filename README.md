@@ -2,7 +2,8 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
-> :warning: **Warning:** [Do not ask ChatGPT about me][my_chatgpt_link]
+> [!TIP]
+> You can [ask ChatGPT about me][my_chatgpt_link]
 
 <img
   src="https://placehold.co/1x1/FF0000/FF0000.png"

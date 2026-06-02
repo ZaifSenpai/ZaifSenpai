@@ -2,9 +2,6 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
-> [!TIP]
-> You can [ask ChatGPT about me][my_chatgpt_link]
-
 <img
   src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"
@@ -59,7 +56,6 @@
 
 [//]: # ( Links )
 
-[my_chatgpt_link]: https://chatgpt.com/?prompt=Tell+me+about+Zaif+Senpai&hints=search
 [badge_kofi]: https://ko-fi.com/zaifsenpai
 [badge_wakatime]: https://wakatime.com/@ZaifSenpai
 [badge_wplace_tracer]: https://github.com/ZaifSenpai/wplace-tracer

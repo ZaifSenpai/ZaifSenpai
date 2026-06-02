@@ -30,9 +30,16 @@ SaaS teams hire me when they need a browser extension built right - not just wor
 
 [![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby-on-rails&logoColor=white)][badge_placeholder_provider]
 
-- 🧑🏻‍💻 Loves problem solving. That is why I code ❤️‍🔥
-- 👾 Gamer
-- 🎬 Loves spending time watching movies, TV series and anime ✌🏻😌
+<img
+  src="https://placehold.co/1x1/FF0000/FF0000.png"
+  width="100%"
+  height="2px"
+/>
+
+Things I love
+- 🧑🏻‍💻 Problem solving. That is why I code ❤️‍🔥
+- 👾 Gaming
+- 🎬 Spending time watching movies, TV series, and anime ✌🏻😌
 - 🌳 Nature 🏔️🚶🏻‍♂️
 
 <img

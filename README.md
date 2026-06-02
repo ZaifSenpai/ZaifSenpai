@@ -2,6 +2,12 @@
 
 ### I am Huzaifa Butt - aka ZaifSenpai 👋
 
+I build browser extensions for SaaS companies, from architecture to Chrome Web Store submission. I help SaaS companies ship production-ready browser extensions - from architecture to Chrome Web Store - so their product works where their users actually spend their day.
+
+SaaS teams hire me when they need a browser extension built right - not just working, but architected to scale with their product. I specialize in Manifest V3, cross-browser compatibility, and extensions that integrate cleanly with existing SaaS backends and APIs.
+
+8+ years, 100+ extension projects, all major browsers. I've built everything from lightweight UI overlays to full AI-integrated extensions shipped on the Chrome Web Store.
+
 <img
   src="https://placehold.co/1x1/FF0000/FF0000.png"
   width="100%"

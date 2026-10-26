@@ -1,19 +1,53 @@
-<img src="/hellothere.jpeg" width="300"/>
+<span>
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="200px" height="10px" title="A mystery" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="200px" height="10px" title="What could this mean?" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="hmmm..." />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="Maybe" />
+</span>
+<br/>
+<span>
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="This" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="200px" height="10px" title="is" />
+</span>
+<br/>
+<span>
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="some" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="kind" />
+</span>
+<br/>
+<span>
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="of" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="200px" height="10px" title="code" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="Beep" />
+  <img src="https://placehold.co/1x1/FF00FF/FF00FF.png" width="10px" height="10px" title="Boop" />
+</span>
 
-### I am Huzaifa Butt - aka ZaifSenpai 👋
+<br/>
 
-Software Engineer with 10+ years of professional experience, 40+ clients worldwide, and 10+ SaaS products built from scratch and scaled.
+### Hi, I am Huzaifa Butt - aka ZaifSenpai 👋
+
+🔭 Building software, exploring new technologies, and working on projects that solve real problems.
+
+- 💻 Programmer since 2013
+- 👨🏻‍💻 Software Engineer by profession
+- 🚀 10+ years of software development experience
+- 🌍 Worked with 40+ clients worldwide
+- 🛠️ Built and contributed to 10+ SaaS products
+
+### Things I love spending time on
+
+- 🧑🏻‍💻 Problem-solving - that's why I code ❤️‍🔥
+- 👾 Gaming
+- 🎬 Movies, TV series, and anime ✌🏻😌
+- 🌳 Exploring nature, mountains, and the outdoors 🏔️🚶🏻‍♂️
 
 <img
-  src="https://placehold.co/1x1/FF0000/FF0000.png"
+  src="https://placehold.co/1x1/FF00FF/FF00FF.png"
   width="100%"
   height="2px"
 />
 
-[![Hire Me On Upwork](https://img.shields.io/badge/Upwork-Hire_Me-%236FDA44.svg?style=flat&logo=upwork&logoColor=6FDA44&labelColor=black)][upwork]
-[![Hire Me On Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white)][fiverr]
-
-[![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)][badge_wakatime]
+### Few of my projects
 
 [![wplace-tracer](https://img.shields.io/badge/Chromium-wplace--tracer-8A2BE2?logo=googlechrome&logoColor=ffffff)][badge_wplace_tracer]
 [![wakatrack-leaderboard](https://img.shields.io/badge/Chromium-wakatrack--leaderboard-8A2BE2?logo=googlechrome&logoColor=ffffff)][badge_wakatrack]
@@ -27,22 +61,14 @@ Software Engineer with 10+ years of professional experience, 40+ clients worldwi
 [![Placeholder Provider](https://img.shields.io/badge/Rails-Placeholder_Provider-%23CC342D.svg?style=flat&logo=ruby-on-rails&logoColor=white)][badge_placeholder_provider]
 
 <img
-  src="https://placehold.co/1x1/FF0000/FF0000.png"
+  src="https://placehold.co/1x1/FF00FF/FF00FF.png"
   width="100%"
   height="2px"
 />
 
-Things I love
-- 🧑🏻‍💻 Problem solving. That is why I code ❤️‍🔥
-- 👾 Gaming
-- 🎬 Spending time watching movies, TV series, and anime ✌🏻😌
-- 🌳 Nature 🏔️🚶🏻‍♂️
+### Some statistics
 
-<img
-  src="https://placehold.co/1x1/FF0000/FF0000.png"
-  width="100%"
-  height="2px"
-/>
+Total coding time logged: [![wakatime](https://wakatime.com/badge/user/b52e42fd-90b4-43d2-ab06-a8c0cd031b36.svg)][badge_wakatime]
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zaifsenpai&count_private=true&show_icons=true&theme=dark)
 
@@ -53,15 +79,20 @@ Things I love
 [<img src="https://wakatime.com/share/@ZaifSenpai/bb973ed8-0387-4178-931e-299ad5a19fb0.png" />][wakatime]
 
 <img
-  src="https://placehold.co/1x1/FF0000/FF0000.png"
+  src="https://placehold.co/1x1/FF00FF/FF00FF.png"
   width="100%"
   height="2px"
 />
 
-## Connect with me
-[<img align="left" alt="Huzaifa Butt | LinkedIn" height="22px" src="https://i.imgur.com/OQUXwNp.jpeg"/>][linkedin]
-[<img align="left" alt="Send email to escbutt@gmail.com" height="22px" src="https://i.imgur.com/20rBedd.jpeg"/>][gmail]
-[<img align="left" alt="Hire me on upwork" height="22px" src="https://i.imgur.com/GlhayMD.jpg"/>][upwork]
+### Connect with me
+
+[<img alt="Huzaifa Butt | LinkedIn" height="22px" src="https://i.imgur.com/OQUXwNp.jpeg"/>][linkedin]
+&nbsp;&nbsp;
+[<img alt="Send email to escbutt@gmail.com" height="22px" src="https://i.imgur.com/20rBedd.jpeg"/>][gmail]
+<br />
+<br />
+[![Hire Me On Upwork](https://img.shields.io/badge/Upwork-Hire_Me-%236FDA44.svg?style=flat&logo=upwork&logoColor=6FDA44&labelColor=black)][upwork]&nbsp;&nbsp;
+[![Hire Me On Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white)][fiverr]
 
 [//]: # ( Links )
 

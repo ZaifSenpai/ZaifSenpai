@@ -109,5 +109,5 @@ Total coding time logged: [![wakatime](https://wakatime.com/badge/user/b52e42fd-
 [linkedin]: https://linkedin.com/in/zaif
 [gmail]: mailto:escbutt@gmail.com
 [wakatime]: https://wakatime.com/@ZaifSenpai
-[upwork]: https://www.upwork.com/freelancers/zaif
+[upwork]: https://www.upwork.com/freelancers/~01c4bacce3395c8eb8
 [fiverr]: https://www.fiverr.com/kuwaydev

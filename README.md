@@ -25,7 +25,6 @@
 <br/>
 
 ### Hi, I am Huzaifa Butt - aka ZaifSenpai 👋
-
 🔭 Building software, exploring new technologies, and working on projects that solve real problems.
 
 - 💻 Programmer since 2013
@@ -40,6 +39,9 @@
 - 👾 Gaming
 - 🎬 Movies, TV series, and anime ✌🏻😌
 - 🌳 Exploring nature, mountains, and the outdoors 🏔️🚶🏻‍♂️
+
+[Meet me][meeting]
+
 
 <img
   src="https://placehold.co/1x1/FF00FF/FF00FF.png"
@@ -111,3 +113,4 @@ Total coding time logged: [![wakatime](https://wakatime.com/badge/user/b52e42fd-
 [wakatime]: https://wakatime.com/@ZaifSenpai
 [upwork]: https://www.upwork.com/freelancers/~01c4bacce3395c8eb8
 [fiverr]: https://www.fiverr.com/kuwaydev
+[meeting]: https://calendar.app.google/8dVvDEAYArJNqjrU7
